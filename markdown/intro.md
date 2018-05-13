@@ -6,7 +6,7 @@
 
 Anna Paula Hernandez-Buces
 
-![](../images/anna.jpg)
+<img src="images/anna.jpg" width="600">
 
 [anna.loshernandez.org](https://anna.loshernandez.org)
 
